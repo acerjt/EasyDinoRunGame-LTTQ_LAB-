@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\DinoRun\DinoRunTest\bin\Debug\DinoRunTest.exe.config
+c:\users\asus\source\repos\DinoRun\DinoRunTest\bin\Debug\DinoRunTest.exe
+c:\users\asus\source\repos\DinoRun\DinoRunTest\bin\Debug\DinoRunTest.pdb
+c:\users\asus\source\repos\DinoRun\DinoRunTest\obj\Debug\DinoRunTest.Properties.Resources.resources
+c:\users\asus\source\repos\DinoRun\DinoRunTest\obj\Debug\DinoRunTest.csproj.GenerateResource.cache
+c:\users\asus\source\repos\DinoRun\DinoRunTest\obj\Debug\DinoRunTest.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\DinoRun\DinoRunTest\obj\Debug\DinoRunTest.exe
+c:\users\asus\source\repos\DinoRun\DinoRunTest\obj\Debug\DinoRunTest.pdb
+C:\Users\ASUS\source\repos\DinoRun\DinoRunTest\obj\Debug\DinoRunTest.screen.resources
+C:\Users\ASUS\source\repos\DinoRun\DinoRunTest\obj\Debug\DinoRunTest.csprojAssemblyReference.cache
